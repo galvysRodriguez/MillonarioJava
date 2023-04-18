@@ -1,0 +1,32 @@
+Nombre: sssss Ronda:1 Premio: 0
+Nombre: uugg Ronda:0 Premio: 0
+Nombre: uugg Ronda:2 Premio: 0
+Nombre: uugg Ronda:0 Premio: 0
+Nombre: uugg Ronda:1 Premio: 0
+Nombre: vvvv Ronda:0 Premio: 0
+Nombre: vvvv Ronda:0 Premio: 0
+Nombre: vvvv Ronda:0 Premio: 0
+Nombre: vvvv Ronda:3 Premio: 0
+Nombre: vvvv Ronda:4 Premio: 0
+Nombre: vvvv Ronda:3 Premio: 0
+Nombre: vvvv Ronda:1 Premio: 100
+Nombre: nnnnn Ronda:1 Premio: 0
+Nombre: nnnnn Ronda:6 Premio: 1000
+Nombre: aaa Ronda:2 Premio: 0
+Nombre: aaa Ronda:0 Premio: 0
+Nombre: Van Gogh Ronda:15 Premio: 15000
+Nombre: wawa cat Ronda:1 Premio: 0
+Nombre: wawa cat Ronda:2 Premio: 0
+Nombre: wawa cat Ronda:2 Premio: 0
+Nombre: wawa cat Ronda:0 Premio: 0
+Nombre: sdasd Ronda:2 Premio: 200
+Nombre: xxx Ronda:6 Premio: 1000
+Nombre: AAA Ronda:2 Premio: 200
+Nombre: qqq Ronda:6 Premio: 1000
+Nombre: Ruben Ronda:0 Premio: 0
+Nombre: Ruben Ronda:0 Premio: 0
+Nombre: Ruben Ronda:2 Premio: 0
+Nombre: Ruben Ronda:0 Premio: 0
+Nombre: Ruben Ronda:0 Premio: 0
+Nombre: Ruben Ronda:1 Premio: 0
+Nombre: Ruben Ronda:6 Premio: 2000

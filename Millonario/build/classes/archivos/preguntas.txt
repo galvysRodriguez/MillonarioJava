@@ -1,0 +1,269 @@
+P1
+¿Quien fue el autor de la escultura parisina "El pensador"?
+Joan Miró
+Andy Warhol
+Auguste Rodin
+Jeff Koons
+3
+elPensador.jpg
+
+P2
+Esta pintura es una obra conocida de Salvador Dali ¿Cual es el nombre de esta obra?
+La persistencia de la memoria
+El gran masturbador
+Intimidad para toda la vida
+Por favor, no olvidar
+2
+elGranMasturbador.jpg
+
+P3
+¿Cuantos cuadros vendió Van Gogh en vida?
+Mas de 100
+60
+5
+1
+4
+null
+
+P4
+¿De estos artistas quien creo el aprimer prototipo de Paracaidas?
+Miguel Ángel
+Donato di Niccolo
+Rafael Sanzio
+Leonardo da Vinci
+4
+null
+
+P5
+¿Quién es el autor de la obra "Los Girasoles"?
+Vincent van Gogh
+Claude Monet
+Gustav Klimt
+Edvard Munch
+1
+null
+
+P6
+¿Cuál es el nombre del famoso muralista mexicano conocido por su obra "Sueño de una tarde dominical en la Alameda Central"?
+Diego Rivera
+David Alfaro Siqueiros 
+José Clemente Orozco 
+Frida Kahlo
+1
+null
+
+P7
+¿Cuál es el movimiento artístico que se caracteriza por el uso de colores brillantes y contrastantes, formas geométricas y líneas definidas?
+Renacimiento
+Pop Art
+Art Deco
+Arte Abstracto
+2
+null
+
+P8
+¿Quién es el artista español conocido por su estilo surrealista y su obra "La persistencia de la memoria"?
+Joan Miró
+Salvador Dalí
+Pablo Picasso
+Francisco de Goya
+2
+null
+
+P9
+¿Qué técnica de pintura se caracteriza por la aplicación de pintura diluida sobre una superficie previamente humedecida?
+Acuarela
+Óleo
+Temple
+Acrílico
+1
+null
+
+P10
+¿Qué artista neerlandés es conocido por su obra "La noche estrellada"?
+Rembrandt van Rijn
+Johannes Vermeer
+Vincent van Gogh
+Pieter Brueghel
+3
+nocheEstrellada.jpg
+
+P11
+¿Cuál es el nombre del artista francés conocido por sus cuadros impresionistas de la Catedral de Rouen?
+Edgar Degas
+Claude Monet
+Pierre-Auguste Renoir
+Paul Cézanne
+2
+null
+
+P12
+¿Cuál es el nombre de la escultura creada por Miguel Ángel que representa a un hombre desnudo en posición de contraposto?
+David
+El Moisés
+La Pietà 
+El pensador
+1
+null
+
+P13
+¿Cuál es el nombre del movimiento artístico que se caracteriza por la representación de objetos cotidianos en un contexto artístico?
+Surrealismo
+Realismo
+Pop Art
+Expresionismo
+3
+null
+
+P14
+¿Qué artista es conocido por su obra "Guernica", que representa los horrores de la Guerra Civil española?
+Pablo Picasso
+Joan Miró
+Francisco de Goya
+Salvador Dalí
+1
+null
+
+P15
+¿Cuál es el nombre del movimiento artístico que surgió en Alemania a principios del siglo XX y se caracteriza por el uso de formas abstractas y colores brillantes?
+Cubismo
+Fauvismo
+Expresionismo
+Art Nouveau
+3
+null
+
+P16
+¿Cuál es el nombre del artista italiano conocido por sus frescos en la Capilla Sixtina del Vaticano?
+Leonardo da Vinci
+Rafael Sanzio
+Michelangelo Buonarroti
+Sandro Botticelli
+3
+null
+
+P17
+¿Cuál es el nombre del movimiento artístico que surgió en Rusia a principios del siglo XX y se caracteriza por la utilización de formas geométricas y colores primarios?
+Suprematismo
+Constructivismo
+Realismo Socialista
+Futurismo
+1
+null
+
+P18
+¿Qué técnica de grabado se caracteriza por la utilización de una plancha de metal y una herramienta para hacer marcas sobre la superficie?
+Xilografía
+Litografía
+Aguafuerte
+Serigrafía
+3
+null
+
+P19
+¿Cuál es el nombre del artista estadounidense conocido por su obra "Campbell's Soup Cans"?
+Andy Warhol
+Jackson Pollock
+Mark Rothko
+Roy Lichtenstein
+1
+null
+
+P20
+¿Cuál es el nombre del arquitecto francés conocido por su obra "La Villa Savoye" y su enfoque en la funcionalidad y la simplicidad en el diseño?
+Le Corbusier
+Frank Lloyd Wright
+Ludwig Mies van der Rohe
+Walter Gropius
+1
+null
+
+P21
+¿Qué técnica de impresión se caracteriza por la utilización de una piedra caliza y una herramienta para hacer marcas sobre la superficie?
+Xilografía
+Litografía
+Aguafuerte
+Serigrafía
+2
+null
+
+P22
+¿Cuál es el nombre del movimiento artístico que surgió en Italia a principios del siglo XX y se caracteriza por el uso de formas abstractas y colores brillantes?
+Cubismo
+Fauvismo
+Futurismo
+Art Nouveau
+3
+null
+
+P23
+¿Cuál es el nombre del artista mexicano conocido por su obra "El hombre en llamas"?
+David Alfaro Siqueiros
+Diego Rivera
+José Clemente Orozco
+Frida Kahlo
+1
+null
+
+P24
+¿Qué técnica de escultura se caracteriza por la eliminación de material de una pieza de piedra o madera?
+Modelado
+Fundición
+Talla
+Ensamblaje
+3
+null
+
+P25
+¿Cuál es el nombre del movimiento artístico que surgió en Francia a finales del siglo XIX y se caracteriza por el énfasis en la luz y el color en la representación de la realidad?
+Impresionismo
+Realismo
+Romanticismo
+Barroco.
+1
+null
+
+P26
+¿Cuál es el nombre del artista español conocido por su obra "Las Meninas"?
+Diego Velázquez
+Francisco de Goya
+El Greco
+Pablo Picasso
+1
+null
+
+P27
+¿Cuál es el nombre del arquitecto español conocido por su obra "La Sagrada Familia" y su enfoque en la naturaleza y la geometría en el diseño?
+Antoni Gaudí
+Santiago Calatrava
+Frank Gehry
+Zaha Hadid
+1
+null
+
+P28
+¿Qué técnica de pintura se caracteriza por la utilización de cera y pigmentos que se aplican con calor sobre la superficie?
+Óleo
+Acrílico
+Acuarela
+Encaústica
+4
+null
+
+P29
+¿Cuál es el nombre del artista conocido por su obra "El caminante sobre el mar de nubes"?
+Johannes Vermeer
+Rembrandt van Rijn
+Caspar David
+Hieronymus Bosch
+3
+null
+
+P30
+¿Qué técnica de escultura se caracteriza por la adición de material para crear la obra?
+Modelado
+Fundición
+Talla
+Ensamblaje
+2
+null
